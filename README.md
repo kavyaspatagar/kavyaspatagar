@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript, React JS, Node JS, AI**
 
-- 💬 Ask me about **Java, Python , Web development**
+- 💬 Ask me about **Java, Python , Web development, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **patgarkavya08@gmail.com**
+- 📫 How to reach me **kavyapatagar01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
