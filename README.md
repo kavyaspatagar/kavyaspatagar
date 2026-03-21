@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python , Web development, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **kavyapatagar01@gmail.com** , **https://www.linkedin.com/in/kavya-patagar**
+- 📫 How to reach me **kavyapatagar01@gmail.com** , **https://www.linkedin.com/in/kavya-patagar**, **https://www.credly.com/users/kavya-patgar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
