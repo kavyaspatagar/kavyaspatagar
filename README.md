@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyaspatgar" alt="kavyaspatgar" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React JS, Node JS, AI**
-
-- 💬 Ask me about **Java, Python , Web development, JavaScript, HTML, CSS**
+Java Backend Developer | Spring Boot | REST APIs | Microservices | AWS 
 
 - 📫 How to reach me **kavyapatagar01@gmail.com** , **https://www.linkedin.com/in/kavya-patagar**, **https://www.credly.com/users/kavya-patgar**
 
